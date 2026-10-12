@@ -1,7 +1,7 @@
 "use strict";
 
 // 👑 GPKING: настройки Supabase
-const SUPABASE_URL = ""https://dgnjdlawdaxotxlrpltl.supabase.co";
+const SUPABASE_URL = "https://dgnjdlawdaxotxlrpltl.supabase.co";
 const SUPABASE_KEY = "sb_publishable_nhq794cQmZGShJ7og_7fBQ_0A4x6y2p";
 
 const SITE_URL = "https://robloxking13478-arch.github.io/gpking/";
